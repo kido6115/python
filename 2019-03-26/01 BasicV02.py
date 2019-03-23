@@ -767,7 +767,7 @@ for i in range (10):
 import time
 tStart = time.time() # 計時開始
  
-print(fib(10)) # 以 fib() 函數執行任務
+print(fib(40)) # 以 fib() 函數執行任務
 
 tEnd = time.time() # 計時結束
 
